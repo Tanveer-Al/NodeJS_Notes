@@ -7000,21 +7000,9 @@
         "gender": "Male"
     },
     {
-        "name": "tanveer",
+        "name": "parvez",
         "email": "ta@gmail.com",
         "gender": "male",
         "id": 1001
-    },
-    {
-        "name": "tanveer",
-        "email": "ta@gmail.com",
-        "gender": "male",
-        "id": 1002
-    },
-    {
-        "name": "tanveer",
-        "email": "ta@gmail.com",
-        "gender": "male",
-        "id": 1003
     }
 ]
