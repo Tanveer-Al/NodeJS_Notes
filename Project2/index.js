@@ -9,7 +9,7 @@ const { databaseConnect } = require("./connect");
 const URL = require("./models/model");
 const path = require("path");
 const { restrictToLoggedInUserOnly, checkAuth } = require("./middleware/auth");
-const PORT = 8000;
+const PORT = 4000;
 
 const app = express();
 
